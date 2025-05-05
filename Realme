@@ -1,0 +1,175 @@
+DL
+
+Introduction, CNN architecture overview, The Basic Structure of a Convolutional Network Padding Strides. Typical Settings, the ReLU layer, Pooling, Fully Connected Layers, The Interleaving between Layers, Local Response Normalization, Training a Convolutional Network
+
+#Exemplar/Case Studies
+
+AlexNet, VGG
+
+*Mapping of Course
+
+Outcomes for Unit III
+
+CO3
+
+Unit IV
+
+Recurrent Neural Network(CNN)
+
+07 Hours
+
+Recurrent and Recursive Nets: Unfolding Computational Graphs, Recurrent Neural Networks. Bidirectional RNNs, Encoder-Decoder Sequence-to-Sequence Architectures, Deep Recurrent Networks, Recursive Neural Networks, The Challenge of Long-Term Dependencies, Echo State Networks, Leaky Units and Other Strategies for Multiple Time Scales, The Long Short-Term Memory and Other Gated RNNs, Optimization for Long-Term Dependencies, Explicit Memory. Practical Methodology: Performance Metrics, Default Baseline Models, Determining Whether
+
+to Gather More Data. Selecting Hyper parameters.
+
+#Exemplar/Case Studies
+
+Multi-Digit Number Recognition
+
+*Mapping of Course
+
+Outcomes for Unit IV
+
+Unit V
+
+CO3
+
+Deep Generative Models
+
+07 Hours
+
+Introduction to deep generative model, Boltzmann Machine, Deep Belief Networks, Generative adversarial network (GAN), discriminator network, generator network, types of GAN, Applications of GAN networks
+
+GAN for detection of real or fake images
+
+#Exemplar/Case Studies
+
+*Mapping of Course Outcomes for Unit V
+
+CO4
+
+Unit VI
+
+Reinforcement Learning
+
+07 Hours
+
+Introduction of deep reinforcement learning, Markov Decision Process, basic framework of reinforcement learning, challenges of reinforcement learning, Dynamic programming algorithms for reinforcement learning.Q Learning and Deep Q-Networks, Deep Q recurrent networks, Simple reinforcement learning for Tic-Tac-Toe
+
+
+HPC
+
+
+Introduction to Parallel Computing: Motivating Parallelism, Modern Processor: program computer architecture, General-purpose Cache-based Microprocessor architecture. Parallel Programming Platforms: Implicit Parallelism, Dichotomy of Parallel Computing Platforms, Physical Organization of Parallel Platforms, Communication Costs in Parallel Machines. Levels of parallelism, Models: SIMD, MIMD, SIMT, SPMD, Data Flow Models, Demand-driven Computation, Architectures: N-wide superscalar architectures, multi-core, multi-threaded.
+
+#Exemplar/Case
+
+Studies
+
+Case study: Multi-core System
+
+*Mapping of Course
+
+Outcomes for Unit I
+
+COJ
+
+Unit II
+
+Parallel Algorithm Design
+
+07 Hours
+
+Principles of Parallel Algorithm Design: Preliminaries, Decomposition Techniques, Characteristics of Tasks and Interactions, Mapping Techniques for Load Balancing, Methods for Containing Interaction Overheads, Parallel Algorithm Models: Data, Task, Work Pool and Master Slave Model, Complexities: Sequential and Parallel Computational Complexity, Anomalies in Parallel Algorithms.
+
+Syllabus for Fourth Year of Computer Engineering
+
+#72/128
+
+Faculty of Engineering
+
+#Exemplar/Case
+
+Studies
+
+*Mapping of Course
+
+Outcomes for Unit II
+
+Unit III
+
+Savitribai Phule Pune University
+
+Foster's parallel algorithm design methodology.
+
+(http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/le
+
+cture notes/chapter(03.pdf)
+
+CO2
+
+Parallel Communication
+
+07 Hours
+
+Basic Communication: One-to-All Broadcast, All-to-One Reduction, All-to-All Broadcast and Reduction, All-Reduce and Prefix-Sum Operations, Collective Communication using MPI:Scatter, Gather, Broadcast, Blocking and non blocking MPI, All-to-All Personalized Communication, Circular Shift, Improving the speed of some communication operations.
+
+#Exemplar/Case
+
+Studies
+
+*Mapping of Course
+
+Monte-Carlo Pi computing using MPI
+
+C03
+
+Outcomes for UnitIII
+
+Unit IV
+
+Analytical Modeling of Parallel Programs
+
+07 Hours
+
+Sources of Overhead in Parallel Programs, Performance Measures and Analysis: Amdahl's and Gustafson's Laws, Speedup Factor and Efficiency, Cost and Utilization, Execution Rate and Redundancy, The Effect of Granularity on Performance, Scalability of Parallel Systems, Minimum Execution Time and Minimum Cost, Optimal Execution Time, Asymptotic Analysis of Parallel Programs. Matrix Computation: Matrix-Vector Multiplication, Matrix-Matrix
+
+Multiplication.
+
+#Exemplar/Case
+
+Studies
+
+Mapping of Course
+
+The DAG Model of parallel computation
+
+Outcomes for UnitIV CO4
+
+Unit V
+
+CUDA Architecture
+
+07 Hours
+
+Introduction to GPU: Introduction to GPU Architecture overview, Introduction to CUDA C-CUDA programming model, write and launch a CUDA kernel, Handling Errors, CUDA memory model, Manage communication and synchronization, Parallel programming in CUDA-C.
+
+#Exemplar/Case
+
+Studies
+
+GPU applications using SYCL and CUDA on NVIDIA
+
+*Mapping of Course
+
+COS
+
+Outcomes for Unit V
+
+Unit VI
+
+High Performance Computing Applications
+
+07 Hours
+
+Scope of Parallel Computing, Parallel Search Algorithms: Depth First Search(DFS), Breadth First Search(BFS), Parallel Sorting: Bubble and Merge, Distributed Computing: Document classification, Frameworks Kuberbets, GPU Applications, Parallel Computing for AI/ ML
